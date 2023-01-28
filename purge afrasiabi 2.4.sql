@@ -37,7 +37,7 @@ UPDATE `item_template` SET `name` = 'Forest Strider Drumstick' WHERE (`entry` = 
 
 ##  APPLY THESE SQL QUERIES TO REMOVE UNSAVORY  QUEST, OBJECT, ITEM, TEXT, ETC REFERENCES IN THE GM ONLY ITEMS/OBJECTS.
 
-UPDATE `item_template` SET `name` = 'Crate of Endless Resist Gear Storage' WHERE (`entry` = 23162);
+UPDATE `item_template` SET `name` = 'A Very Large Bag' WHERE (`entry` = 23162);
 UPDATE `item_template` SET `name` = 'Ring of Audacity' WHERE (`entry` = 12947);
 UPDATE `item_template` SET `name` = 'Test Beatdown Staff' WHERE (`entry` = 19879);
 UPDATE `item_template` SET `description` = '' WHERE (`entry` = 25596);
